@@ -6,4 +6,3 @@
 
 인코어랩 깃허브에 대한 문의 사항은 github@incorelab.co.kr 로 메일주세요 !!
 
-pull_request_test
